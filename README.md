@@ -1,0 +1,2 @@
+# secKill
+seconds kill goods
